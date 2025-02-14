@@ -1,2 +1,4 @@
 ALLEN S PHILIP<br>
 5 lines of code
+NWSITMORENA<BR>
+Code examples illustrate how to use a programming element to implement specific functionality. They might include: Simple, one-line examples interspersed with text. Short, self-contained examples that illustrate specific points. Long samples that illustrate multiple features, complex scenarios, or best practices.24 Jun 2022
